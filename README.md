@@ -1,6 +1,6 @@
 # NeoG
 
-### Assignment 1 NeoG
+### [Assignment 1 NeoG](https://github.com/pranikz/NeoG/tree/main/Assignment-1)
 
 ### Week 1 progress.
 
